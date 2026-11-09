@@ -41,12 +41,9 @@ A travel safety platform focused on making journeys safer with features like an 
 
 
 
-##  GitHub Streak
+## GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=itsnehaabansal-git&theme=rose&hide_border=true" />
-</p>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=itsnehaabansal-git&theme=rose&hide_border=true&v=2)
 
 ---
 
