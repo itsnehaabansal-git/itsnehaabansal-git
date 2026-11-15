@@ -1,3 +1,4 @@
+
 # <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=30&pause=1500&color=E879B9&center=false&vCenter=true&width=350&lines=Hey%2C+I'm+Neha!" alt="Hey, I'm Neha!" />
 
 <p align="center">
@@ -10,18 +11,14 @@
 
 ---
 
+## About Me
+
+- Learning Data Structures & Algorithms in C++.
+- Interested in Open Source, Hackathons & building projects.
+- Always curious about what I can create next.
 
 
----
-
-##  About Me
-
--  Learning Data Structures & Algorithms in C++.
--  Interested in Open Source, Hackathons & building projects.
--  Always curious about what I can create next.
-
-
-##  Tech I Work With
+## Tech I Work With
 
 <div align="center">
 
@@ -29,17 +26,15 @@
 
 </div>
 
-##  Things I've Built
+## Things I've Built
 
-###  SafeYatra
+### SafeYatra
 
 A travel safety platform focused on making journeys safer with features like an AI assistant, SOS support and weather information.
 
 **Tech Stack:** React · JavaScript · Vite · Geoapify · Gemini API
 
 ---
-
-
 
 ## GitHub Streak
 
@@ -49,4 +44,10 @@ A travel safety platform focused on making journeys safer with features like an 
 
 <p align="center">
   ⭐ Thanks for stopping by!
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/neha-bansal-btech-cse/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="22" alt="LinkedIn" />
+  </a>
 </p>
